@@ -2,7 +2,7 @@
   "name": "greatBayDB",
   "version": "1.0.0",
   "description": "Practice with  MySQL(SELECT,UPDATE,READ), Node, Inquirer",
-  "main": "index.js",
+  "main": "greatBay.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
