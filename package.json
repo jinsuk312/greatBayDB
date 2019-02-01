@@ -1,0 +1,24 @@
+{
+  "name": "greatBayDB",
+  "version": "1.0.0",
+  "description": "Practice with  MySQL(SELECT,UPDATE,READ), Node, Inquirer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinsukmik/greatBayDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinsukmik/greatBayDB/issues"
+  },
+  "homepage": "https://github.com/jinsukmik/greatBayDB#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
