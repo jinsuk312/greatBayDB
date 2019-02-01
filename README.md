@@ -1,2 +1,3 @@
 # greatBayDB
-Practice with  MySQL, Node, Inquirer
+Practice with  MySQL(SELECT,UPDATE,READ), Node, Inquirer
+
